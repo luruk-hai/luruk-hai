@@ -5,6 +5,10 @@
 💬 Ask me about React Native, TypeScript, Node.js, Express, PostgreSQL, Prisma, Zustand and API design.  
 ⚡ Fun fact: I built a multiplayer framework that handled 130+ concurrent users nightly.
 
+# 📦 My NPM Packages
+[![NPM Profile](https://img.shields.io/badge/NPM-Luruk--Hai-red?logo=npm)](https://www.npmjs.com/~luruk-hai)
+[![pushwave-client](https://img.shields.io/npm/v/pushwave-client?label=pushwave-client)](https://www.npmjs.com/package/pushwave-client)
+
 # 💻 Tech Stack:
 ### Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
