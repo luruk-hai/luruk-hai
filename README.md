@@ -6,7 +6,7 @@
 ⚡ Fun fact: I built a multiplayer framework that handled 130+ concurrent users nightly.
 
 # 📦 My NPM Packages
-[![NPM Profile](https://img.shields.io/badge/NPM-Luruk--Hai-red?logo=npm)](https://www.npmjs.com/~luruk-hai)
+[![NPM Profile](https://img.shields.io/badge/NPM-Luruk--Hai-red?logo=npm)](https://www.npmjs.com/~lurukhai)
 [![pushwave-client](https://img.shields.io/npm/v/pushwave-client?label=pushwave-client)](https://www.npmjs.com/package/pushwave-client)
 
 # 💻 Tech Stack:
